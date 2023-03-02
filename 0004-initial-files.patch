@@ -1,0 +1,134 @@
+From 310346f3949c1520d6ebbfb6be054ff2a5cd5bfe Mon Sep 17 00:00:00 2001
+From: manvi-kumar <kumarmanvi04@gmail.com>
+Date: Tue, 28 Feb 2023 23:34:15 +0530
+Subject: [PATCH 4/4] initial files
+
+---
+ __pycache__/add_it.cpython-310.pyc     | Bin 0 -> 233 bytes
+ __pycache__/add_it.cpython-38.pyc      | Bin 0 -> 231 bytes
+ __pycache__/add_it.cpython-39.pyc      | Bin 0 -> 231 bytes
+ __pycache__/divide_it.cpython-38.pyc   | Bin 0 -> 304 bytes
+ __pycache__/multiply_it.cpython-38.pyc | Bin 0 -> 308 bytes
+ __pycache__/subtract_it.cpython-38.pyc | Bin 0 -> 308 bytes
+ add_it.py                              |   3 +++
+ divide_it.py                           |  10 ++++++++++
+ 8 files changed, 13 insertions(+)
+ create mode 100644 __pycache__/add_it.cpython-310.pyc
+ create mode 100644 __pycache__/add_it.cpython-38.pyc
+ create mode 100644 __pycache__/add_it.cpython-39.pyc
+ create mode 100644 __pycache__/divide_it.cpython-38.pyc
+ create mode 100644 __pycache__/multiply_it.cpython-38.pyc
+ create mode 100644 __pycache__/subtract_it.cpython-38.pyc
+ create mode 100644 add_it.py
+ create mode 100644 divide_it.py
+
+diff --git a/__pycache__/add_it.cpython-310.pyc b/__pycache__/add_it.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..cc21b1ecae34043ced2e2d0f7478ba7a5e21b055
+GIT binary patch
+literal 233
+zcmd1j<>g`kf;&e4l3jrGV-N=!FabFZKwQiNBvKes7+V;k7*d#m88n%bL2@tvVuP?V
+z5EpX*i5i9)MsWt9I!3>h44O>07%OfuRu(Y=Wx&KQjby8s(Bjmh;uw#B7?;%I?2`O~
+z80W;C<kFnPlKi5W#FUiy%o4qV%3I7pCdlYw5W&G%#0sSRG$Ay?KnRNkD0hp)CO1E&
+OG$+*#WE)r)4<i6R7%7hc
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/add_it.cpython-38.pyc b/__pycache__/add_it.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..9df62702697da74884f2bf0e3143d75bdf24320b
+GIT binary patch
+literal 231
+zcmWIL<>g`kf;&e4l3jrGV-N=!FabFZKwQiNBvKes7+V;k7*d#m88n%bL2@tvVuP?V
+z5EpX*i5i9)MsWt9I!3>h44O>07%OfuRu(Y=Wx&KQ4QH#E(Bjmh;uw#B7?;%I?2`O~
+z80W;C<kFnPlKi5W#FUiy%o4qV%3I7pCdlYwuzie0tU$J(CWJ;92w|}R<!*7<<mRW8
+N=A_zzG<*hP1^~v#DZc;!
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/add_it.cpython-39.pyc b/__pycache__/add_it.cpython-39.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..0f257339576737223b81307de927b603b88ae397
+GIT binary patch
+literal 231
+zcmYe~<>g`kf;&e4l3jrGV-N=!FabFZKwQiNBvKes7+V;k7*d#m88n%bL2@tvVuP?V
+z5EpX*i5i9)MsWt9I!3>h44O>07%OfuRu(Y=Wx&KQjby8s(Bjmh;uw#B7?;%I?2`O~
+z80W;C<kFnPlKi5W#FUiy%o4qV%3I7pCdlYwuzie0tU$J(CWJ;92w|}R<!*7<<mRW8
+N=A_zzG<*hP1_0k1DeC|L
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/divide_it.cpython-38.pyc b/__pycache__/divide_it.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b09a11f2aaf9b92534fb96bc416f97840b093d7
+GIT binary patch
+literal 304
+zcmWIL<>g`k0uGCR$qRw>V-N=!FabFZKwK;UBvKfn7*ZHhm|7U37*m*o88lg{jJTYO
+zQWHy3Qxx*^6hcZ<72Hyj6pSnsjEt;I4XjK}6^smwjJdcR5=%=m@{6n#JOa3qL1w}L
+zhz-KdKwQiLBx)FH7^NA2W;6P&WYA=~#aMBRv9gE}C<7*bX**lRgche36~}l4#JHpu
+zXP4v`#5gDBB$wtSmgE=3q-2(5rliJamgp5!-eQCBI6;PkZDlNC1+x8s=Ca4fr{pKc
+e$AbkB=0jL4Kt;DWY;yBcN^?@}Ksv$NS=a$Z?LFWC
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/multiply_it.cpython-38.pyc b/__pycache__/multiply_it.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf318fda9cf13a55edf9857bf7b35dec77d4f7db
+GIT binary patch
+literal 308
+zcmWIL<>g`kf-~m-l9vJL#~=<eU;=U+fVfxyNTe`CF{Ci2Ftsp5F{UsFGib6@8F4um
+zr6!i7rYPj+DTI`!D!8R4DHvHO7#UfaSX!BwDHs_T8FO(tB$k$B<QG{fcm!}IgUo~h
+z5F3P@fw-6hNYpUYFp4k$&1Upl$)L$}i?QMsV`UK|PzFr=(sj0q2`x@7Dvt38h;d0R
+z&MwI>h;dHLNiNMvEXgm5$t}$($t=jJjL$65E2zB10poLmECAcgSi}ls`vJ{nkB?8u
+hPmYfV3n1)(uvmbKZgJS;=BJeAq}qXWg0-`-0|22cK*In4
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/subtract_it.cpython-38.pyc b/__pycache__/subtract_it.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..228ca5836d1e75e311354433de2df0dd88fab763
+GIT binary patch
+literal 308
+zcmWIL<>g`kf@<@B$xDIsV-N=!FabFZKwK;UBvKfn7*ZHhm|7U37*m*o88lg{jJTYO
+zQWHy3Qxx*^6hcZ<72Hyj6pSnsjEt;IEUXNS6^smwjJdcR5=%=m@{6n#JOa3qL1w}L
+zhz-KdKwQiLBx)FH7$q2hW;6P&WYA=~#aMBRv9gE}C<7*b={j4*gche36~}l4#JHpu
+zXP4v`#5gDBB$wtSmgE=36qhEI6eT8?#AlZ16;$5hfbls&7JzMLEMf(+{eWh($H%AS
+gC&$Nw1rT;XSS&zAw>WHa^HWN5Qtd!G!P;5a0WC2=Jpcdz
+
+literal 0
+HcmV?d00001
+
+diff --git a/add_it.py b/add_it.py
+new file mode 100644
+index 0000000..71c1712
+--- /dev/null
++++ b/add_it.py
+@@ -0,0 +1,3 @@
++# This function adds two numbers
++def add(x, y):
++    return x + y
+diff --git a/divide_it.py b/divide_it.py
+new file mode 100644
+index 0000000..7dd7814
+--- /dev/null
++++ b/divide_it.py
+@@ -0,0 +1,10 @@
++# -*- coding: utf-8 -*-
++"""
++Created on Tue Feb 28 22:50:55 2023
++
++@author: HP
++"""
++
++# This function divides two numbers
++def divide(x, y):
++    return x / y
+\ No newline at end of file
+-- 
+2.39.0.windows.2
+
