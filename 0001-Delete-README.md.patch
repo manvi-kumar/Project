@@ -1,0 +1,21 @@
+From d9bea5f867573061d12c3deb02bc9505d62c3586 Mon Sep 17 00:00:00 2001
+From: Manvi Kumar <122528688+manvi-kumar@users.noreply.github.com>
+Date: Tue, 28 Feb 2023 23:22:38 +0530
+Subject: [PATCH 1/4] Delete README.md
+
+---
+ README.md | 2 --
+ 1 file changed, 2 deletions(-)
+ delete mode 100644 README.md
+
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 431ccef..0000000
+--- a/README.md
++++ /dev/null
+@@ -1,2 +0,0 @@
+-### Project
+-# New_Project
+-- 
+2.39.0.windows.2
+
